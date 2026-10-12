@@ -54,10 +54,6 @@ I'm a student of the **Higher Technician Degree in 3D Animation, Games and Inter
 
 ---
 
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josemanuelgueraluque@gmail.com)
-
 <div align="center">
 
 ⭐ *If you've made it this far, it's because you've seen something in me.* ⭐
