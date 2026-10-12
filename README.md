@@ -56,6 +56,6 @@ I'm a student of the **Higher Technician Degree in 3D Animation, Games and Inter
 
 <div align="center">
 
-⭐ *If you've made it this far, it's because you've seen something in me.* ⭐
+ *If you've made it this far, it's because you've seen something in me.* 
 
 </div>
