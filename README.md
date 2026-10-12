@@ -4,8 +4,7 @@
 
 ### 🎮 3D Animation, Games and Interactive Environments Student
 
-![Banner](<img width="1500" height="500" alt="banner" src="https://github.com/user-attachments/assets/d417b9b3-1ac0-40b4-8bfc-5c144272fa1b" />
-)
+![Banner](C:\Users\elpolletejr\Downloads\banner.png)
 
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
