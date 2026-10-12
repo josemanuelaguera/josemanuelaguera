@@ -27,7 +27,7 @@ I'm a student of the **Higher Technician Degree in 3D Animation, Games and Inter
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools 
 
 | Area | Tools |
 |------|-------|
@@ -35,16 +35,14 @@ I'm a student of the **Higher Technician Degree in 3D Animation, Games and Inter
 | 🎨 Drawing & Concept Art | Krita |
 | 🎮 Game Engines | [Unity / Unreal / Godot: whichever you use] |
 | 🧰 Version Control | Git & GitHub |
-| 📄 Others | [Photoshop, Substance Painter, etc.] |
 
 ---
 
-## 🚀 Featured Projects
+## Completed projects
 
-- 🏀 **Bouncing Ball (2D Animation)**: squash and stretch exercise with a 2D-style render in Blender. [View project](LINK)
-- 🏙️ **Sci-Fi Isometric Scene**: concept art of a -punk style sci-fi room designed for video games. [View project](LINK)
-- 🔵 **Chiaroscuro Study (sphere, cube and cone)**: light and shadow study using soft brushes in Krita. [View project](LINK)
-- [Add your upcoming projects here]
+- 🏀 **Bouncing Ball (2D Animation)**: squash and stretch exercise with a 2D-style render in Blender. 
+- 🏙️ **Sci-Fi Isometric Scene**: concept art of a -punk style sci-fi room designed for video games.
+- 🔵 **Chiaroscuro Study (sphere, cube and cone)**: light and shadow study using soft brushes in Krita. 
 
 ---
 
@@ -56,26 +54,12 @@ I'm a student of the **Higher Technician Degree in 3D Animation, Games and Inter
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](YOUR_ARTSTATION)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josemanuelgueraluque@gmail.com)
 
 <div align="center">
 
-⭐ *Thanks for visiting my profile!* ⭐
+⭐ *If you've made it this far, it's because you've seen something in me.* ⭐
 
 </div>
