@@ -31,10 +31,10 @@ I'm a student of the **Higher Technician Degree in 3D Animation, Games and Inter
 
 | Area | Tools |
 |------|-------|
-| 🧊 3D Modeling & Animation | Blender |
-| 🎨 Drawing & Concept Art | Krita |
-| 🎮 Game Engines | [Unity / Unreal / Godot: whichever you use] |
-| 🧰 Version Control | Git & GitHub |
+| 3D Modeling & Animation | Blender |
+| Drawing & Concept Art | Krita |
+| Game Engines | [Unity / Unreal / Godot: whichever you use] |
+| Version Control | Git & GitHub |
 
 ---
 
