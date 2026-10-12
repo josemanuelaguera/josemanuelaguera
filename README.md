@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi! I'm [YOUR NAME]
+# 👋 Hello! I'm José Manuel.
 
 ### 🎮 3D Animation, Games and Interactive Environments Student
 
