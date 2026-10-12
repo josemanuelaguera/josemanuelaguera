@@ -10,6 +10,8 @@
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Unity Hub](https://img.shields.io/badge/Unity%20Hub-222C37?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
 
