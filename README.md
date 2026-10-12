@@ -2,9 +2,10 @@
 
 # 👋 Hello! I'm José Manuel.
 
-### 🎮 3D Animation, Games and Interactive Environments Student
+### 🎮 Higher Technician in 3D Animation, Games and Interactive Environments Student
 
-![Banner](file:///C:/Users/elpolletejr/Downloads/banner.pdf)
+<img width="1500" height="500" alt="banner" src="https://github.com/user-attachments/assets/796e9a7e-53f4-42df-9542-2054c5b648c8" />
+">
 
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
@@ -14,9 +15,9 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a student of the **Higher Technician Degree in 3D Animation, Games and Interactive Environments** at [YOUR SCHOOL], in [YOUR CITY], Spain. I love creating worlds, characters and interactive experiences, and I'm learning the whole pipeline: from the initial idea and concept art to modeling, animation and rendering.
+I'm a student of the **Higher Technician Degree in 3D Animation, Games and Interactive Environments** at Davante Medac, in Málaga, Spain. I love creating worlds, characters and fun games, I am studying all the necessary aspects to be able to carry out any project: from the initial idea and concept art to modeling, animation and rendering.
 
 - 🎬 Learning **2D and 3D animation**
 - 🧊 Practicing **3D modeling** and **lighting**
