@@ -60,6 +60,6 @@ josemanuelgueraluque@gmail.com -
 https://www.artstation.com/josemanuel_08
 <div align="center">
 
- *If you've made it this far, it's because you've seen something in me.* 
+ *If you've made it this far, it's because you've seen something in me.*  
 
 </div>
