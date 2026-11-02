@@ -16,10 +16,9 @@
 </div>
 
 ---
-
 ## About Me
 
-I'm a student of the **Higher Technician Degree in 3D Animation, Games and Interactive Environments** at Davante Medac, in Málaga, Spain. I love creating worlds, characters and fun games, I am studying all the necessary aspects to be able to carry out any project: from the initial idea and concept art to modeling, animation and rendering.
+Estudiante del Grado Superior de Animación 3D, Juegos y Entornos Interactivos en Davante MEDAC, Málaga. Apasionado por la creación de mundos, personajes y videojuegos, con conocimientos para desarrollar proyectos desde la idea inicial y el concept art hasta el modelado 3D, la animación y el renderizado. Mi objetivo es dar vida a ideas originales y convertirlas en experiencias visuales y jugables.
 
 - 🎬 Learning **2D and 3D animation**
 - 🧊 Practicing **3D modeling** and **lighting**
@@ -28,7 +27,6 @@ I'm a student of the **Higher Technician Degree in 3D Animation, Games and Inter
 - 🔎 Looking for an **internship** in the animation and video game industry
 
 ---
-
 ## 🛠️ Tools 
 
 | Area | Tools |
@@ -39,20 +37,24 @@ I'm a student of the **Higher Technician Degree in 3D Animation, Games and Inter
 | Version Control | Git & GitHub |
 
 ---
-
 ## Completed projects
 
-- 🏀 **Bouncing Ball (2D Animation)**: squash and stretch exercise with a 2D-style render in Blender. 
-- 🏙️ **Sci-Fi Isometric Scene**: concept art of a -punk style sci-fi room designed for video games.
-- 🔵 **Chiaroscuro Study (sphere, cube and cone)**: light and shadow study using soft brushes in Krita. 
+- 🏀 **Bola que rebota (2D Animation)**: Animación realizada en el estilo 2D en Blender, que consiste en aplicar los principios físicos de animación de aplastar y estirar, dependiendo del movimiento. 
+- 🏙️ **Habitación Isométrica**: Diseño conceptual de una habitación isométrica solarpunk para su futura implementación en el modelado 3D y animación en un videojuego.
+- 🔵 **Estudi de iluminación (sphere, cube and cone)**: Estudio de iluminación, comportamiento de la luz sobre distintos objetos y análisis de sombras, volúmenes y materiales en Krita.
 
 ---
-
 ## 🎯 Goals
 
-- Finish my degree with a solid portfolio.
-- Complete my internship at an animation or video game studio.
-- Keep improving my animation, modeling and lighting skills.
+→ Finalizar el Grado Superior con un portfolio sólido.
+
+→ Completar y animar mi proyecto de habitación solarpunk.
+
+→ Mejorar mis habilidades de modelado 3D y animación.
+
+→ Perfeccionar diferentes técnicas y estilos de iluminación.
+
+→ Desarrollar proyectos con una mentalidad propia de un estudio de videojuegos.
 
 ---
 ## 📫 Contact
@@ -60,6 +62,6 @@ josemanuelgueraluque@gmail.com -
 https://www.artstation.com/josemanuel_08
 <div align="center">
 
- *If you've made it this far, it's because you've seen something in me.*  
-
+  *If you've made it this far, it's because you've seen something in me.*  
+  
 </div>
